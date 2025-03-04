@@ -3,6 +3,9 @@
 A modern and responsive landing page for a task management application, designed using HTML and CSS. This project provides an intuitive interface to showcase the features of a task management tool.
 
 ![image](https://github.com/user-attachments/assets/94e8c00e-ba5e-4055-9ecd-d16929979fd9)
+![image](https://github.com/user-attachments/assets/c1256a79-4fdd-4e75-8e13-b2f7cad8de8e)
+
+
 
 
 ## Features
